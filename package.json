@@ -1,0 +1,31 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Node.js &amp; MySQL Database",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "cli-table2": "^0.2.0",
+    "colors": "^1.1.2",
+    "console.table": "^0.10.0",
+    "inquirer": "^5.1.0",
+    "mysql": "^2.15.0",
+    "prompt": "^1.0.0",
+    "require": "^2.4.20"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rodesigned/bamazon.git"
+  },
+  "keywords": [],
+  "author": "Rosita Cabrera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rodesigned/bamazon/issues"
+  },
+  "homepage": "https://github.com/Rodesigned/bamazon#readme"
+}
