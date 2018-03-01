@@ -3,6 +3,8 @@ Node.js &amp; MySQL Database
 
 Here is the link for the video to show the Bamazon process
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WWCEn3glgPk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 Here is the link for the gif to show the Bamazon process
 https://github.com/Rodesigned/bamazon/blob/master/bamazon.gif
 ## Instructions
