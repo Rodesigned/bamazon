@@ -1,6 +1,10 @@
 # Welcome to Bamazon
 Node.js &amp; MySQL Database
 
+Here is a video to show the Bamazon process
+
+
+or gif to show the Bamazon process
 ## Instructions
 
 ### Challenge #1: Customer View
